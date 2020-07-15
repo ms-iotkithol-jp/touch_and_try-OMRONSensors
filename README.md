@@ -22,4 +22,4 @@
   
 ## <a name="advanced">上級編　IoT Edgeを使った応用編</a>
 
-- [上級編　IoT Edgeを使った応用編　トップページ](advanced/README.md)
+- [上級編　IoT Edgeを使った応用編　トップページ](https://github.com/ms-iotkithol-jp/2jciebu-usb-raspberrypi/blob/master/DockerExtension/EXTEND_ja.md)
